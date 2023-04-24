@@ -9,7 +9,7 @@ A full-stack developer with a passion for crafting elegant solutions to complex 
 * 🌍  I'm based in Vancouver
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/priti-yadavml/)
 * ✉️  You can contact me at [pritiyadav888@gmail.com](mailto:pritiyadav888@gmail.com)
-* 🚀  I'm currently working on [Youtube Video to Article Generator](http://github.com/pritiyadav888/youtubeArticleGenerator)
+* 🚀  I just finished working on a full stack web app [BrownArt](https://nft-gallery-nine-khaki.vercel.app/) currently working on something superstitions 💀. 
 * 🧠  I'm learning Django
 * 🤝  I'm open to collaborating on Machine Learning Projects
 * ⚡  A master of time travel and a part-time unicorn trainer, seeking to use my skills to save the world (or at least improve it a little)
