@@ -7,7 +7,7 @@ Full Stack Developer and Machine Learning Engineer
 A full-stack developer with a passion for crafting elegant solutions to complex problems. Skilled in machine learning and always eager to explore new technologies and techniques.
 
 * 🌍  I'm based in Vancouver
-* 🖥️  See my portfolio at [Github](http://www.linkedin.com/in/priti-yadavml/)
+* 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/priti-yadavml/)
 * ✉️  You can contact me at [pritiyadav888@gmail.com](mailto:pritiyadav888@gmail.com)
 * 🚀  I'm currently working on [Youtube Video to Article Generator](http://github.com/pritiyadav888/youtubeArticleGenerator)
 * 🧠  I'm learning Django
