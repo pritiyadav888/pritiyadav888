@@ -4,10 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer and Machine Learning Engineer
 --------------------------------------------------
 
-A full-stack developer with a passion for crafting elegant solutions to complex problems. Skilled in machine learning and always eager to explore new technologies and techniques.
+A Backend developer with a passion for crafting elegant solutions to complex problems. Skilled in machine learning and always eager to explore new technologies and techniques.
 
 * 🌍  I'm based in Vancouver
-* 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/priti-yadavml/)
+* 🖥️ See my [Portfolio](https://pritiyadav888.github.io/resume/)
+* 🖥️ Connect on [Linkedin](http://www.linkedin.com/in/priti-yadavml/)
 * ✉️  You can contact me at [pritiyadav888@gmail.com](mailto:pritiyadav888@gmail.com)
 * 🚀  I just finished working on a full stack web app [BrownArt](https://nft-gallery-nine-khaki.vercel.app/) currently working on something superstitions 💀. 
 * 🧠  I'm learning Django
