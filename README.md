@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Priti Yadav
 ===================================================================================================================================
 
-Full Stack Developer and Machine Learning Engineer
+AI Consultant and Researcher
 --------------------------------------------------
 
 A Backend developer with a passion for crafting elegant solutions to complex problems. Skilled in machine learning and always eager to explore new technologies and techniques.
@@ -10,8 +10,7 @@ A Backend developer with a passion for crafting elegant solutions to complex pro
 * 🖥️ See my [Portfolio](https://pritiyadav888.github.io/resume/)
 * 🖥️ Connect on [Linkedin](http://www.linkedin.com/in/priti-yadavml/)
 * ✉️  You can contact me at [pritiyadav888@gmail.com](mailto:pritiyadav@ieee.org)
-* 🚀  I just finished working on a book recommendation app [Moody](https://seren.herokuapp.com/). Currently working on something superstitions 💀. 
-* 🧠  I'm learning Django
+* 🚀  I just finished working on [Human In Loop App](https://humaninloop.ca/).  
 * 🤝  I'm open to collaborating on Machine Learning Projects
 * ⚡  A master of time travel and a part-time unicorn trainer, seeking to use my skills to save the world (or at least improve it a little)
 
