@@ -9,7 +9,7 @@ A Backend developer with a passion for crafting elegant solutions to complex pro
 * 🌍  I'm based in Vancouver
 * 🖥️ See my [Portfolio](https://pritiyadav888.github.io/resume/)
 * 🖥️ Connect on [Linkedin](http://www.linkedin.com/in/priti-yadavml/)
-* ✉️  You can contact me at [pritiyadav888@gmail.com](mailto:pritiyadav888@gmail.com)
+* ✉️  You can contact me at [pritiyadav888@gmail.com](mailto:pritiyadav@ieee.org)
 * 🚀  I just finished working on a book recommendation app [Moody](https://seren.herokuapp.com/). Currently working on something superstitions 💀. 
 * 🧠  I'm learning Django
 * 🤝  I'm open to collaborating on Machine Learning Projects
